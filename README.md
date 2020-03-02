@@ -1,9 +1,5 @@
 # Tracking Progress in Natural Language Processing
 
-## 固定列宽 水平滚动的表格
-
-
-
 ## Table of contents
 
 ### English

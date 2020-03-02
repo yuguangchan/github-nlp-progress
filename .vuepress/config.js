@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-    base: '/static/dataset/',
+    base: '/github-nlp-progress/',
     dest: 'build',
     themeConfig: {
         navbar: false,

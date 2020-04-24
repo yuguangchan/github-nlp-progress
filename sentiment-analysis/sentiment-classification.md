@@ -3,7 +3,7 @@
 ### 1. ChnSentiCorp
 - <strong>数据集简介：</strong>
 
-    酒店、笔记本电脑和书籍的网购评论。
+    酒店、笔记本电脑和书籍的网购评论数据。
 
 - <strong>数据集详情：</strong>
 
@@ -18,7 +18,7 @@
 ### 2. NLPCC14-SC
 - <strong>数据集简介：</strong>
 
-    中文网购商品评论数据。
+   电商评论数据。
     
 - <strong>数据集详情：</strong>
 

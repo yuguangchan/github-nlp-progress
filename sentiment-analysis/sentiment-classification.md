@@ -18,7 +18,7 @@
 ### 2. NLPCC14-SC
 - <strong>数据集简介：</strong>
 
-   电商评论数据。
+   电商场景下的文本评论数据。
     
 - <strong>数据集详情：</strong>
 

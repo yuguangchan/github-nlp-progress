@@ -3,7 +3,7 @@
 ### 1. ChineseOpinionTargetExtraction
 - <strong>数据集简介：</strong>
 
-    从互联网公司爬取的评论数据，主要包括消费者评论数据以及评论观点目标。
+    从互联网上爬取的评论数据，主要包括电商评论数据以及评论观点目标。
 
 - <strong>数据集详情：</strong>
 

@@ -9,7 +9,9 @@
 ### 文本分类
 ### 情感分析
 
-- [情感分析](sentiment-analysis/sentiment-classification.md)
+- [句子级情感分类](sentiment-analysis/sentiment-classification.md)
+- [评价对象级的情感分类](sentiment-analysis/sentiment-classification.md)
+- [观点抽取](sentiment-analysis/sentiment-classification.md)
 
 ### 实体链指
 ### 关系抽取

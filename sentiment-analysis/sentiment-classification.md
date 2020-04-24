@@ -1,4 +1,4 @@
-## 情感分类
+## 情感分析
 
 ### 1. ChnSentiCorp
 - <strong>数据集简介：</strong>

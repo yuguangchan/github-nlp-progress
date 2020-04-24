@@ -9,7 +9,7 @@
 ### 文本分类
 ### 情感分析
 
-- [情感分类](sentiment-analysis/sentiment-classification.md)
+- [情感分析](sentiment-analysis/sentiment-classification.md)
 
 ### 实体链指
 ### 关系抽取

@@ -10,8 +10,6 @@
 ### 情感分析
 
 - [情感分类](sentiment-analysis/sentiment-classification.md)
-- [aspect级别情感分类](sentiment-analysis/aspect级别情感分类.md)
-- [aspect&opinion extraction](sentiment-analysis/aspect&opinion_extraction.md)
 
 ### 实体链指
 ### 关系抽取

@@ -3,27 +3,30 @@
 ## 中文NLP开源数据集
 
 ### 词法分析
+### 句法分析
 ### 语义解析
 
-### 文本相似度
 ### 文本分类
+### 文本相似度
 ### 情感分析
-
 - [句子级情感分类](sentiment-analysis/sentiment-classification.md)
 - [评价对象级的情感分类](sentiment-analysis/aspect-level-sentiment-classification.md)
 - [观点抽取](sentiment-analysis/opinion-role-labeling.md)
 
-### 实体链指
-### 关系抽取
-### 事件抽取
+### 信息抽取
+- 实体链指
+- 关系抽取
+- 事件抽取
 
-### 文本摘要
 ### 文本生成
 
-### 问答
+### 问答系统
 - [阅读理解](question-answering/mrc.md)
-### 对话
-- [Dialogue](/english/dialogue.md)
+
+### 对话系统
+- 闲聊型
+- 任务型
+
 ### 机器翻译
 
 ### 多模态

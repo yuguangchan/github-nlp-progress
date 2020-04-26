@@ -19,8 +19,7 @@
         <component :is="layout"></component>
         <footer class="bk-dark">
             <div class="footer-content">
-                <p>NLP-progress maintained by <a href="https://github.com/sebastianruder">sebastianruder</a></p>
-                <p>Published with <a href="https://github.com/sebastianruder">GitHub Pages</a></p>
+                <p>Published with GitHub Pages</p>
             </div>
         </footer>
     </div>

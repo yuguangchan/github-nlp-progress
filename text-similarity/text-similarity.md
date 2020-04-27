@@ -27,7 +27,7 @@
     | BQ Corpus | 12万文本数据 | 2018年 | Jing Chen et al. | 哈工大 & WeBank | [链接](https://www.aclweb.org/anthology/D18-1536.pdf) | [链接](http://icrc.hitsz.edu.cn/Article/show/175.html)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong> 
-    - Jing Chen, Qingcai Chen, Xin Liu et al. 2018, Oct. The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification. In Proceedings of the 27th International Conference on Computational Linguistics. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
+    - Jing Chen, Qingcai Chen, Xin Liu et al. 2018, Oct. The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 ### 3. AFQMC
 - <strong>数据集简介：</strong>

@@ -24,7 +24,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | CSpider | 166个数据库，0.9万问题 | 2019年 | Qingkai Min, et al. | 西湖大学 | [链接](https://arxiv.org/abs/1909.13293) |[CSpider榜单](https://taolusi.github.io/CSpider-explorer)|
+    | CSpider | 166个数据库，0.9万问题 | 2019年 | Qingkai Min, et al. | 西湖大学 | [链接](https://arxiv.org/abs/1909.13293) |[链接](https://taolusi.github.io/CSpider-explorer/)|[CSpider榜单](https://taolusi.github.io/CSpider-explorer)|
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - 无

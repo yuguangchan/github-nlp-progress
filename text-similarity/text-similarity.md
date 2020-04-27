@@ -12,8 +12,7 @@
     | LCQMC | 26万文本数据 | 2018年 | Xin Liu et al. | 哈工大 | [链接](https://www.aclweb.org/anthology/C18-1166.pdf) | [链接](http://icrc.hitsz.edu.cn/Article/show/171.html)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - Yu Sun and Shuohuan Wang and Yukun Li and Shikun Feng and Hao Tian and Hua Wu and Haifeng Wang, 2019, July. ERNIE 2.0: A Continual Pre-training Framework for Language Understanding. In Proceedings of the AAAI Conference on Artificial Intelligence.
-    - Yuxian Meng, Wei Wu, Fei Wang, Xiaoya Li, Ping Nie, Fan Yin, Muyu Li, Qinghong Han, Xiaofei Sun, Jiwei Li, 2019, Jan. Glyce: Glyph-vectors for Chinese Character Representations. In Proceedings of the NeurIPS 2019.
+    - Xin Liu, Qingcai Chen, Chong Deng et al. 2018, Aug. LCQMC:A Large-scale Chinese Question Matching Corpus. In Proceedings of the 27th International Conference on Computational Linguistics.
     
 
 ### 2. BQ Corpus
@@ -28,8 +27,7 @@
     | BQ Corpus | 12万文本数据 | 2018年 | Jing Chen et al. | 哈工大 & WeBank | [链接](https://www.aclweb.org/anthology/D18-1536.pdf) | [链接](http://icrc.hitsz.edu.cn/Article/show/175.html)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong> 
-    - Yu Sun and Shuohuan Wang and Yukun Li and Shikun Feng and Hao Tian and Hua Wu and Haifeng Wang, 2019, July. ERNIE 2.0: A Continual Pre-training Framework for Language Understanding. In Proceedings of the AAAI Conference on Artificial Intelligence.
-    - Yuxian Meng, Wei Wu, Fei Wang, Xiaoya Li, Ping Nie, Fan Yin, Muyu Li, Qinghong Han, Xiaofei Sun, Jiwei Li, 2019, Jan. Glyce: Glyph-vectors for Chinese Character Representations. In Proceedings of the NeurIPS 2019.
+    - Jing Chen, Qingcai Chen, Xin Liu et al. 2018, Oct. The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification. In Proceedings of the 27th International Conference on Computational Linguistics. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 ### 3. AFQMC
 - <strong>数据集简介：</strong>
@@ -43,7 +41,7 @@
     | AFQMC | 4.25万文本数据 | 2020年 | Liang Xu et al. | CLUE Team | [链接](https://arxiv.org/abs/2004.05986) | [链接](https://github.com/CLUEbenchmark/CLUE)| [链接](https://www.cluebenchmarks.com/index.html) |
 
 - <strong>基于该数据集发表的相关论文：</strong> 
-   - Liang Xu, Xuanwei Zhang, Lu Li, Hai Hu et al., 2020, Apr. CLUE: A Chinese Language Understanding Evaluation Benchmark.
+   - Liang Xu, Xuanwei Zhang, Lu Li et al. 2020, Apr. CLUE: A Chinese Language Understanding Evaluation Benchmark.
    
 ### 4. PAWS-X
 - <strong>数据集简介：</strong>
@@ -57,6 +55,6 @@
     | PAWS-X（中文） | 5.33万文本数据 | 2019年 | Yinfei Yang et al. | Google Research | [链接](https://arxiv.org/pdf/1908.11828.pdf) | [链接](https://github.com/google-research-datasets/paws)| N/A |
     
 - <strong>基于该数据集发表的相关论文：</strong> 
-    - Yinfei Yang, Yuan Zhang, Chris Tar and Jason Baldridge, 2019, Aug. PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification. In Proceedings of the EMNLP 2019.
+    - Yinfei Yang, Yuan Zhang, Chris Tar and Jason Baldridge, 2019, Aug. PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing.
 
 [回到首页](/README.md)

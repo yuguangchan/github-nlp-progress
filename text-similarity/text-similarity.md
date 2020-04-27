@@ -40,10 +40,10 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | AFQMC | 4.25万文本数据 | N/A | N/A | N/A | N/A | [链接](https://github.com/CLUEbenchmark/CLUE)| [链接](https://www.cluebenchmarks.com/index.html) |
+    | AFQMC | 4.25万文本数据 | 2020年 | Liang Xu et al. | CLUE Team | [链接](https://arxiv.org/abs/2004.05986) | [链接](https://github.com/CLUEbenchmark/CLUE)| [链接](https://www.cluebenchmarks.com/index.html) |
 
 - <strong>基于该数据集发表的相关论文：</strong> 
-   暂无
+   - Liang Xu, Xuanwei Zhang, Lu Li, Hai Hu et al., 2020, Apr. CLUE: A Chinese Language Understanding Evaluation Benchmark.
    
 ### 4. PAWS-X
 - <strong>数据集简介：</strong>

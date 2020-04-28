@@ -3,9 +3,8 @@
 ### 1. Flickr8K-CN、Flickr30K-CN、COCO-CN
 - <strong>数据集简介：</strong>
 
-    Flickr8K-CN
-    Flickr30K-CN
-    COCO-CN
+    - 针对图像描述任务（Image Captioning)，将英文公开数据集Flickr8K（8千图像、4万英文描述）、Flickr30K（3万图像、15万英文描述）中的英文描述使用机器翻译将翻译为中文描述，其中，测试集通过人工翻译成中文描述，构建了Flickr8K-CN、和Flickr30k-CN图像描述数据集；
+    - 针对英文公开数据集MS-COCO的图像，增加中文描述的句子，图像约2万，人工标注的中文描述约2.7万，结合机器翻译得到的中文描述10万，构建了COCO-CN数据集
 
 - <strong>数据集详情：</strong>
 

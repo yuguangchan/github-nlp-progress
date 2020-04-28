@@ -19,22 +19,56 @@
     | CTB9 | 2084387词，3247331个汉字，132076个句子，3726个文件 | 2016年 | Nianwen Xue, et al. | LDC | N/A |[会员下载](https://catalog.ldc.upenn.edu/LDC2016T13) | N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    -  待整理
+    - Li, H., Zhang, Z., Ju, Y., & Zhao, H. (2018, April). Neural character-level dependency parsing for Chinese. In Thirty-Second AAAI Conference on Artificial Intelligence.
+    - Bohnet, B., Nivre, J. (2012, July). A transition-based system for joint part-of-speech tagging and labeled non-projective dependency parsing. In Proceedings of the 2012 joint conference on empirical methods in natural language processing and computational natural language learning (pp. 1455-1465). Association for Computational Linguistics.
+    - Hatori, J., Matsuzaki, T., Miyao, Y., Tsujii, J. I. (2011, November). Incremental joint POS tagging and dependency parsing in Chinese. In Proceedings of 5th international joint conference on natural language processing (pp. 1216-1224).
+    - Li, Z., Zhang, M., Che, W., Liu, T., Chen, W., Li, H. (2011, July). Joint models for Chinese POS tagging and dependency parsing. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1180-1191). Association for Computational Linguistics.
+    - Hatori, J., Matsuzaki, T., Miyao, Y., Tsujii, J. I. (2012, July). Incremental joint approach to word segmentation, POS tagging, and dependency parsing in Chinese. In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics: Long Papers-Volume 1 (pp. 1045-1053). Association for Computational Linguistics.
+    - Guo, J., Che, W., Yarowsky, D., Wang, H., Liu, T. (2015, July). Cross-lingual dependency parsing based on distributed representations. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1234-1244).
     
 
 ### 2. HIT-CDT
 - <strong>数据集简介：</strong>
 
-   由哈尔滨工业大学发布的句法数据，标注数据来自人民日报和小学语文课本。弧label集合含15个label，标注标准见http://www.ltp-cloud.com/intro#dp_how。
+   由哈尔滨工业大学发布的依存句法数据集，标注数据来自人民日报和小学语文课本。弧label集合含15个label，标注标准见http://www.ltp-cloud.com/intro#dp_how。
     
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | HIT-CDT | 10312 | -- | Wanxiang Che, et al. | 哈尔滨工业大学 | N/A | 未公开 | N/A |
+    | HIT-CDT | 902191词, 49996个句子 | 2012年 | Wanxiang Che, et al. | 哈尔滨工业大学 | N/A | [会员下载](https://catalog.ldc.upenn.edu/LDC2012T05) | [NLPCC 2019 shared tasks](http://hlt.suda.edu.cn/index.php/Nlpcc-2019-shared-task) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - 待整理
+    - Jiang, X., Li, Z., Zhang, B., Zhang, M., Li, S., Si, L. (2018, July). Supervised treebank conversion: Data and approaches. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2706-2716).
+
+### 3. PKU-CDT
+- <strong>数据集简介：</strong>
+
+   由北京大学发布的依存句法数据集。
+    
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | HIT-CDT | 14463个句子 | 2014年 | Likun Qiu, et al. | 北京大学 | [链接](https://www.aclweb.org/anthology/C14-1026.pdf) | N/A | N/A |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Jiang, X., Li, Z., Zhang, B., Zhang, M., Li, S., Si, L. (2018, July). Supervised treebank conversion: Data and approaches. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2706-2716).
+
+### 4. HLT-CDT
+- <strong>数据集简介：</strong>
+
+   由苏州大学和阿里巴巴共建的依存句法数据集，标注数据来自人民日报、小学语文课本、淘宝商品描述等。
+    
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | HLT-CDT | 30000个句子 | 2018年 | Lijuan Guo, et al. | 苏州大学 & 阿里巴巴 | [链接](http://jcip.cipsc.org.cn/CN/abstract/abstract2645.shtml) | [链接](http://hlt.suda.edu.cn/index.php/Nlpcc-2019-shared-task) | [NLPCC 2019 shared tasks](http://hlt.suda.edu.cn/index.php/Nlpcc-2019-shared-task) |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Jiang, X., Li, Z., Zhang, B., Zhang, M., Li, S., Si, L. (2018, July). Supervised treebank conversion: Data and approaches. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2706-2716).
+    - Li, Z., Peng, X., Zhang, M., Wang, R., Si, L. (2019, July). Semi-supervised domain adaptation for dependency parsing. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 2386-2395).
 
 
 

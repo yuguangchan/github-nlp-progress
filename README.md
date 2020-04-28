@@ -5,7 +5,7 @@
 ### 词法分析
 ### 句法分析
 ### 语义解析
-
+- [Text-to-SQL](semantic-parsing/semantic-parsing.md)
 ### 文本分类
 ### 文本相似度
 ### 情感分析

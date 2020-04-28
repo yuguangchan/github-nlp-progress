@@ -4,6 +4,7 @@
 
 ### 词法分析
 ### 句法分析
+- [依存句法](dependency-parsing/dependency-parsing.md)
 ### 语义解析
 - [Text-to-SQL](semantic-parsing/semantic-parsing.md)
 ### 文本分类

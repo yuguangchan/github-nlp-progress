@@ -16,8 +16,8 @@
 - [观点抽取](sentiment-analysis/opinion-role-labeling.md)
 
 ### 信息抽取
-- 实体链指
-- [关系抽取](https://github.com/xuMINGzhi9/github-nlp-progress/blob/master/information-extraction/relation-extraction.md)
+- [实体链指](information-extraction/entity_linking.md)
+- [关系抽取](information-extraction/relation-extraction.md)
 - 事件抽取
 
 ### 文本生成

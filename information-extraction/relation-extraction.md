@@ -7,7 +7,7 @@
 
     | 名称       | 规模  |  文本来源  | 评测  |下载  |论文  |
     | :-----:  | :-----:  | :----:  |:----:  |:----:  |:----:  |
-    | DuIE   | 48种关系类型、21万句子，40wSPO实例 |   百度百科+百度贴吧+通用网页   |[LIC2020]           (https://aistudio.baidu.com/aistudio/competition/detail/31)   |[链接](https://aistudio.baidu.com/aistudio/competition/detail/31) |[链接](http://tcci.ccf.org.cn/conference/2019/papers/EV10.pdf)
+    | DuIE   | 48种关系类型、21万句子，40wSPO实例 |   百度百科+百度贴吧+通用网页   |[LIC2020](https://aistudio.baidu.com/aistudio/competition/detail/31)  |[链接](https://aistudio.baidu.com/aistudio/competition/detail/31) |[链接](http://tcci.ccf.org.cn/conference/2019/papers/EV10.pdf)
 
 
  - <strong>基于该数据集发表的相关论文：</strong>
@@ -35,7 +35,7 @@
 
 | 名称       | 文本来源  |  规模 | 评测  |下载  |论文  |
 | :-----:  | :-----:  | :----:  |:----:  |:----:  |:----:  |
-|TAC KBP Chinese Regular Slot Filling  | 论坛 & 新闻网页 |   2个实体类别（PER的25中属性和ORG的16中属性）  |TAC |[链接](https://www.ldc.upenn.edu/language-resources/data/obtaining) | - |
+|TAC KBP Chinese Regular Slot Filling  | 论坛 & 新闻网页 |   2个实体类别（PER的25中属性和ORG的16中属性）  |[TAC2019](https://catalog.ldc.upenn.edu/LDC2019T08) |[链接](https://www.ldc.upenn.edu/language-resources/data/obtaining) | - |
 
 
 
@@ -48,7 +48,7 @@
 
 | 名称       | 文本来源  |  规模 | 评测  |下载  |论文  |
 | :-----:  | :-----:  | :----:  |:----:  |:----:  |:----:  |
-| Chinese-Literature-NER-RE-Dataset  | 通用网页 |   7实体类型，9关系类型，726文章，2.9万句子   |无   |[链接](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) |[链接](https://arxiv.org/pdf/1711.07010.pdf)|
+| Chinese-Literature-NER-RE-Dataset  | 通用网页 |   7实体类型，9关系类型，726文章，2.9万句子   | N/A   |[链接](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) |[链接](https://arxiv.org/pdf/1711.07010.pdf)|
 
 
  - <strong>基于该数据集发表的相关论文：</strong>

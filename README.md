@@ -21,6 +21,7 @@
 - 事件抽取
 
 ### 文本生成
+- 摘要生成(text-generation/automatic-summarization.md)
 
 ### 问答系统
 - [阅读理解](question-answering/mrc.md)

@@ -26,7 +26,7 @@
 - [阅读理解](question-answering/mrc.md)
 
 ### 对话系统
-- 闲聊型
+- [闲聊型](dialog/open-domain-dialog.md)
 - 任务型
 
 ### 机器翻译

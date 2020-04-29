@@ -50,7 +50,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | HIT-CDT | 14463个句子 | 2014年 | Likun Qiu, et al. | 北京大学 | [链接](https://www.aclweb.org/anthology/C14-1026.pdf) | N/A | N/A |
+    | PKU-CDT | 14463个句子 | 2014年 | Likun Qiu, et al. | 北京大学 | [链接](https://www.aclweb.org/anthology/C14-1026.pdf) | N/A | N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Jiang, X., Li, Z., Zhang, B., Zhang, M., Li, S., Si, L. (2018, July). Supervised treebank conversion: Data and approaches. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2706-2716).

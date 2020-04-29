@@ -33,5 +33,7 @@
 ### 机器翻译
 
 ### 多模态
+- [多模理解](multimodal/multimodal.md)
+
 ### 知识图谱
 - [开放中文图谱](knowledge-graph/open-knowledge-graph.md)

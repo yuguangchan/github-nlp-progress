@@ -7,7 +7,7 @@
 
     |  图谱数据集名称 | 单位 | 数据来源 | 规模 | 开放方式 | 参考资料 |
     | :---: | :---:| :---: | :---: | :---: | :---: |
-    | CN-Probase | 复旦大学 | 百度百科、互动百科及中文维基 | 约1700万实体、27万概念和3300万isa关系 | [API访问](http://kw.fudan.edu.cn/apis/cnprobase/) | [官网](http://kw.fudan.edu.cn/apis/intro/)|
+    | CN-Probase | 复旦大学 | 百度百科、互动百科及中文维基 | 约1700万实体、27万概念和3300万isa关系 | [API访问](http://kw.fudan.edu.cn/apis/cnprobase/) | [官网](http://kw.fudan.edu.cn/cnprobase/intro/)|
 
  - <strong> 基于该数据集发表的相关论文：</strong>
  

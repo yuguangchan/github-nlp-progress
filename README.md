@@ -28,7 +28,7 @@
 ### 对话系统
 - [闲聊型](dialog/open-domain-dialog.md)
 - 任务型
-    -[对话理解](dialog/task-based/spoken-language-understanding.md)
+    - [对话理解](dialog/task-based/spoken-language-understanding.md)
 
 ### 机器翻译
 

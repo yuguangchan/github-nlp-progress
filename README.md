@@ -17,7 +17,7 @@
 
 ### 信息抽取
 - 实体链指
-- 关系抽取
+- [关系抽取](https://github.com/xuMINGzhi9/github-nlp-progress/blob/master/information-extraction/relation-extraction.md)
 - 事件抽取
 
 ### 文本生成
@@ -26,10 +26,12 @@
 - [阅读理解](question-answering/mrc.md)
 
 ### 对话系统
-- 闲聊型
+- [闲聊型](dialog/open-domain-dialog.md)
 - 任务型
+[对话理解](dialog/task-based/spoken-language-understanding.md)
 
 ### 机器翻译
 
 ### 多模态
 ### 知识图谱
+- [开放中文图谱](knowledge-graph/open-knowledge-graph.md)

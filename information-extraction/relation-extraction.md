@@ -23,7 +23,7 @@
 
 | 名称       | 文本来源  |  规模 | 评测  |下载  |论文  |
 | :-----:  | :-----:  | :----:  |:----:  |:----:  |:----:  |
-| ACE 2005 Multilingual Training Corpus  | 新闻+博客 |   6种关系类型，18种子关系类型，633篇文章   |ACE 2005   |[链接](https://catalog.ldc.upenn.edu/LDC2006T06) | [链接](https://pdfs.semanticscholar.org/3a9b/136ca1ab91592df36f148ef16095f74d009e.pdf)|
+| ACE 2005 Multilingual Training Corpus  | 新闻+博客 |   6种关系类型，18种子关系类型，633篇文章   |[ACE 2005](https://catalog.ldc.upenn.edu/LDC2006T06)   |[链接](https://catalog.ldc.upenn.edu/LDC2006T06) | [链接](https://pdfs.semanticscholar.org/3a9b/136ca1ab91592df36f148ef16095f74d009e.pdf)|
 
 
 ### 3. TAC KBP Chinese Regular Slot Filling

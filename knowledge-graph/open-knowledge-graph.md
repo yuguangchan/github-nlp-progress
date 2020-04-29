@@ -11,7 +11,7 @@
 
  - <strong> 基于该数据集发表的相关论文：</strong>
  
-Chen J, Wang A, Chen J, et al. CN-Probase: a data-driven approach for large-scale Chinese taxonomy construction[C]//2019 IEEE 35th International Conference on Data Engineering (ICDE). IEEE, 2019: 1706-1709.
+    - Chen J, Wang A, Chen J, et al. CN-Probase: a data-driven approach for large-scale Chinese taxonomy construction[C]//2019 IEEE 35th International Conference on Data Engineering (ICDE). IEEE, 2019: 1706-1709.
 
 ### 2. CN-Dbpedia
 - <strong> 图谱简介： </strong>
@@ -26,7 +26,7 @@ CN-DBpedia目前提供Dump数据下载。包含900万+的百科实体以及6700�
 
  - <strong> 基于该数据集发表的相关论文：</strong>
  
-Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
+    - Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
 
 ### 3. PKU-PIE 
 - <strong> 图谱简介： </strong>
@@ -41,7 +41,7 @@ Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua X
 ### 4. XLORE 
 - <strong> 图谱简介： </strong>
 
-XLORE知识库是由清华大学构建，融合了中英文维基、法语维基和百度百科，对百科知识进行结构化和跨语言链接构建的多语言知识图谱，是中英文知识规模较平衡的大规模多语言知识图谱 。XLore包含2,466,956个概念，446,236个关系和16,284,901实体。
+    XLORE知识库是由清华大学构建，融合了中英文维基、法语维基和百度百科，对百科知识进行结构化和跨语言链接构建的多语言知识图谱，是中英文知识规模较平衡的大规模多语言知识图谱 。XLore包含2,466,956个概念，446,236个关系和16,284,901实体。
 - <strong> 数据集详情：</strong>
     
     |  图谱数据集名称 | 单位 | 数据来源 | 规模 | 开放方式 | 参考资料 |
@@ -50,13 +50,13 @@ XLORE知识库是由清华大学构建，融合了中英文维基、法语维基
 
  - <strong> 基于该数据集发表的相关论文：</strong>
  
-Wang Z, Li J, Wang Z, et al. Xlore: A large-scale english-chinese bilingual knowledge graph[C]. Proceedings of the 12th International Semantic Web Conference (Posters & Demonstrations Track)-Volume 1035. CEUR-WS. org, 2013: 121-124.
+    - Wang Z, Li J, Wang Z, et al. Xlore: A large-scale english-chinese bilingual knowledge graph[C]. Proceedings of the 12th International Semantic Web Conference (Posters & Demonstrations Track)-Volume 1035. CEUR-WS. org, 2013: 121-124.
 
 
 ### 5. 七律-7Lore
 - <strong> 图谱简介： </strong>
 
-七律-7Lore，是狗尾草科技精心打造的百科知识图谱，是人类世界海量知识的集合，七律知识图谱包含了事物、事实、概念、规则等信息，目前涵盖超过2亿个实体和超过30亿条关系，并且每天保持稳定地增量学习和增长。
+    七律-7Lore，是狗尾草科技精心打造的百科知识图谱，是人类世界海量知识的集合，七律知识图谱包含了事物、事实、概念、规则等信息，目前涵盖超过2亿个实体和超过30亿条关系，并且每天保持稳定地增量学习和增长。
 
 - <strong> 数据集详情：</strong>
 

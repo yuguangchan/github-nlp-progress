@@ -17,7 +17,7 @@
 
 ### 信息抽取
 - 实体链指
-- 关系抽取
+- [关系抽取](https://github.com/xuMINGzhi9/github-nlp-progress/blob/master/information-extraction/relation-extraction.md)
 - 事件抽取
 
 ### 文本生成

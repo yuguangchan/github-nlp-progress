@@ -33,3 +33,4 @@
 
 ### 多模态
 ### 知识图谱
+- [开放中文图谱](knowledge-graph/open-knowledge-graph.md)

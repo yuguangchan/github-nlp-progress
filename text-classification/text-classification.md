@@ -41,4 +41,22 @@
 - <strong>基于该数据集发表的相关论文：</strong>
     - Canhui Wang, Min Zhang, Shaoping ma, Liyun Ru, Automatic Online News Issue Construction in Web Environment. The 17th International World Wide Web Conference (WWW08), Beijing, April, 2008.
 
+### 4. FudanTC
+- <strong>数据集简介：</strong>
+
+    由复旦大学李荣陆提供。answer.rar为测试语料，共9833篇文档；train.rar为训练语料，共9804篇文档，分为20个类别。训练语料和测试语料基本按照1:1的比例来划分。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | FudanTC | 1.8万文档数据 | N/A | 李荣陆 | 复旦大学 | [论文](http://www1.cs.columbia.edu/~dplewis/candidacy/joachims99transductive.pdf) |[链接](https://www.kesci.com/home/dataset/5d3a9c86cf76a600360edd04/document)| N/A |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Joachims T. Transductive Inference for Text Classification using Support Vector Machines[C]// Sixteenth International Conference on Machine Learning. Morgan Kaufmann Publishers Inc. 1999:200-209.
+    - Joulin A, Grave E, Bojanowski P, et al. Bag of Tricks for Efficient Text Classification[J]. 2016:427-431.
+    - Zhang Y, Wallace B. A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification[J]. Computer Science, 2015.
+    - Ji Y L, Dernoncourt F. Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks[J]. 2016:515-520.
+    - Chen G, Ye D, Xing Z, et al. Ensemble application of convolutional and recurrent neural networks for multi-label text categorization[C]// International Joint Conference on Neural Networks. IEEE, 2017:2377-2383.
+
 [回到首页](/README.md)

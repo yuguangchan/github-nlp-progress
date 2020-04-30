@@ -38,7 +38,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | IWSLT | 25万中英双语句对 | 2015 | - | 布鲁诺·凯斯勒基金会FBK | [链接](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf) | [链接](http://workshop2015.iwslt.org/)| [链接](http://workshop2015.iwslt.org/) |
+    | IWSLT | 22万中英双语句对 | 2015 | - | 布鲁诺·凯斯勒基金会FBK | [链接](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf) | [链接](http://workshop2015.iwslt.org/)| [链接](http://workshop2015.iwslt.org/) |
 
 - <strong>基于该数据集发表的相关论文：</strong> 
    - Mauro Cettolo, Jan Niehues, Sebastian Stuker, Luisa Bentivogli, Roldano Cattoni, and Marcello Federico. 2015. The IWSLT 2015 evaluation campaign. In Proc. of IWSLT, Da Nang, Vietnam.

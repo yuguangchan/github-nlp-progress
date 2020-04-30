@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下 载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | THUCNews | 74万文档数据 | N/A | 孙茂松 | 清华大学自然语言处理与社会人文计算实验室 | [论文](https://www.aclweb.org/anthology/D07-1081.pdf)| [链接](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)| N/A |
+    | THUCNews | 74万文档数据 | N/A | 孙茂松 | 清华大学自然语言处理与社会人文计算实验室 | N/A| [链接](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Jingyang Li, Maosong Sun. Scalable Term Selection for Text Categorization. Proc. of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL), Prague, Czech Republic, 2007, pp. 774-782.
@@ -50,7 +50,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | FudanTC | 1.8万文档数据 | N/A | 李荣陆 | 复旦大学 | [论文](http://www1.cs.columbia.edu/~dplewis/candidacy/joachims99transductive.pdf) |[链接](https://www.kesci.com/home/dataset/5d3a9c86cf76a600360edd04/document)| N/A |
+    | FudanTC | 1.8万文档数据 | N/A | 李荣陆 | 复旦大学 | N/A |[链接](https://www.kesci.com/home/dataset/5d3a9c86cf76a600360edd04/document)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Joachims T. Transductive Inference for Text Classification using Support Vector Machines[C]// Sixteenth International Conference on Machine Learning. Morgan Kaufmann Publishers Inc. 1999:200-209.

@@ -7,9 +7,9 @@
 
 - <strong>数据集详情：</strong>
 
-    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 下载 | 评测 |
-    | :---: | :---:| :---: | :---: | :---: | :---: | :---: |
-    | THUCNews | 74万文档数据 | N/A | 孙茂松 | 清华大学自然语言处理与社会人文计算实验室 | [链接](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)| N/A |
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下 载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | THUCNews | 74万文档数据 | N/A | 孙茂松 | 清华大学自然语言处理与社会人文计算实验室 | [论文](https://www.aclweb.org/anthology/D07-1081.pdf)| [链接](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Jingyang Li, Maosong Sun. Scalable Term Selection for Text Categorization. Proc. of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL), Prague, Czech Republic, 2007, pp. 774-782.
@@ -34,9 +34,9 @@
 
 - <strong>数据集详情：</strong>
 
-    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 下载 | 评测 |
-    | :---: | :---:| :---: | :---: | :---: | :---: | :---: |
-    | SogouCS | 74万文档数据 | N/A | 王灿辉 | 搜狗实验室 | [链接](http://www.sogou.com/labs/resource/cs.php)| N/A |
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | SogouCS | 114万文档数据 | N/A | 王灿辉 | 搜狗实验室 | [论文](http://wwwconference.org/www2008/papers/pdf/p457-wang.pdf) |[链接](http://www.sogou.com/labs/resource/cs.php)| N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Canhui Wang, Min Zhang, Shaoping ma, Liyun Ru, Automatic Online News Issue Construction in Web Environment. The 17th International World Wide Web Conference (WWW08), Beijing, April, 2008.

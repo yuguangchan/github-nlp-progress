@@ -8,6 +8,7 @@
 ### 语义解析
 - [Text-to-SQL](semantic-parsing/semantic-parsing.md)
 ### 文本分类
+- [文本分类](text-classification/text-classification.md)
 ### 文本相似度
 - [文本相似度](text-similarity/text-similarity.md)
 ### 情感分析

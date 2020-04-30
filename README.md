@@ -22,7 +22,8 @@
 - 事件抽取
 
 ### 文本生成
-- [摘要生成](text-generation/automatic-summarization.md)
+- [自动摘要](text-generation/automatic-summarization.md)
+- [中文诗歌](text-generation/chinese-poetry.md)
 
 ### 问答系统
 - [阅读理解](question-answering/mrc.md)

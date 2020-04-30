@@ -16,18 +16,15 @@
     - Jingyang Li, Maosong Sun, Xian Zhang. A Comparison and Semi-Quantitative Analysis of Words and Character-Bigrams as Features in Chinese Text Categorization. Proc. of the 2006 Joint Conference of the International Committee on Computational Linguistics and the Association for Computational Linguistics (COLING-ACL 2006), Sydney, Australia, 2006, pp. 545-552.
     
 
-### 2. NLPCC14-SC
+### 2. CNews
 - <strong>数据集简介：</strong>
 
-   电商场景下的文本评论数据。
+   共包含39247篇新闻，分为历史、军事、文化、读书、教育、IT、娱乐、社会与法制等八个类别。历史类、文化类、读书类新闻来自于凤凰网，IT类的新闻全部来自tech.qq，教育类的新闻来自edu.qq，娱乐类的新闻来自网易。社会与法制类的新闻来自于新浪和腾讯的几个版面。
     
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | NLPCC14-SC | 1.25万文本数据 | 2014年 | N/A | N/A | N/A | [链接](http://tcci.ccf.org.cn/conference/2014/index.html)| [NLPCC 2014](http://tcci.ccf.org.cn/conference/2014/index.html) |
-
-- <strong>基于该数据集发表的相关论文：</strong>
-    - GUAN Pengfei, LI Bao‘an, LV Xueqiang, ZHOU Jianshe. Attention Enhanced Bi-directional LSTM for Sentiment Analysis. , 2019, 33(2): 105-111.
+    | CNews | 3.92万文档数据 | 2017年 | 刘禹 | 中国科学院自动化研究所综合信息中心 | N/A | [链接](http://www.nlpir.org/wordpress/2017/11/05/%e4%b8%ad%e6%96%87%e6%96%b0%e9%97%bb%e5%88%86%e7%b1%bb%e8%af%ad%e6%96%99%e5%ba%93/)| N/A|
 
 [回到首页](/README.md)

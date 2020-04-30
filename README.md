@@ -19,7 +19,7 @@
 ### 信息抽取
 - [实体链指](information-extraction/entity_linking.md)
 - [关系抽取](information-extraction/relation-extraction.md)
-- 事件抽取
+- [事件抽取](information-extraction/event-extraction.md)
 
 ### 文本生成
 - [自动摘要](text-generation/automatic-summarization.md)

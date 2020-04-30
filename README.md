@@ -33,7 +33,7 @@
 - [对话理解](dialog/task-based/spoken-language-understanding.md)
 
 ### 机器翻译
-
+- [机器翻译](machine-translation/machine-translation.md)
 ### 多模态
 - [多模理解](multimodal/multimodal.md)
 

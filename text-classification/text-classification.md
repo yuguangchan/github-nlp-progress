@@ -27,4 +27,18 @@
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
     | CNews | 3.92万文档数据 | 2017年 | 刘禹 | 中国科学院自动化研究所综合信息中心 | N/A | [链接](http://www.nlpir.org/wordpress/2017/11/05/%e4%b8%ad%e6%96%87%e6%96%b0%e9%97%bb%e5%88%86%e7%b1%bb%e8%af%ad%e6%96%99%e5%ba%93/)| N/A|
 
+### 3. SogouCS
+- <strong>数据集简介：</strong>
+
+    来自搜狐新闻2012年6月—7月期间国内，国际，体育，社会，娱乐等18个频道的新闻数据，提供URL和正文信息
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: |
+    | SogouCS | 74万文档数据 | N/A | 王灿辉 | 搜狗实验室 | [链接](http://www.sogou.com/labs/resource/cs.php)| N/A |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Canhui Wang, Min Zhang, Shaoping ma, Liyun Ru, Automatic Online News Issue Construction in Web Environment. The 17th International World Wide Web Conference (WWW08), Beijing, April, 2008.
+
 [回到首页](/README.md)

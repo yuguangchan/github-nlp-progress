@@ -102,7 +102,7 @@
 #### 2. AIC-ICC
 - <strong>数据集简介：</strong>
 
-    AIC-ICC
+    AIC-ICC(Image Chinese Captioning from AI Challenge)包含21万图像和105万图像的中文描述，涵盖日常生活常见的200多个场景，如足球场、草地等场景，唱歌、跑步等动作，是目前图像描述领域最大的中文数据集。
 
 - <strong>数据集详情：</strong>
 
@@ -112,18 +112,19 @@
  
 - <strong>基于该数据集发表的相关论文：</strong>
     - Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu, COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval, IEEE Transactions on Multimedia, Volume 21, Number 9, pages 2347-2360, 2019
+    - Song, Y., Chen, S., Zhao, Y., & Jin, Q. (2019, October). Unpaired Cross-lingual Image Caption Generation with Self-Supervised Rewards. In Proceedings of the 27th ACM International Conference on Multimedia (pp. 784-792).
 
 
-#### 3. VATEX
+#### 3. VaTEX
 - <strong>数据集简介：</strong>
 
-    VATEX
+    VaTEX数据集对4.1万个视频进行了视频描述标注，每个视频标注了 10 个英文描述和 10 个中文描述，对比之前的MSR-VTT数据集，VaTEX更加丰富的多语言描述，基于该数据集可以进行多语言的视频描述、基于视频的翻译等任务
 
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | VATEX | 41k/412k(videos/captions) | 2019年 | Xin Wang | University of California, Santa Barbara | [链接](https://arxiv.org/abs/1904.03493) | [链接](https://vatex.org/main/index.html)| - |
+    | VaTEX | 41k/412k(videos/captions) | 2019年 | Xin Wang | University of California, Santa Barbara | [链接](https://arxiv.org/abs/1904.03493) | [链接](https://vatex.org/main/index.html)| - |
  
 - <strong>基于该数据集发表的相关论文：</strong>
     - Wang, X., Wu, J., Chen, J., Li, L., Wang, Y. F., & Wang, W. Y. (2019). VATEX: A large-scale, high-quality multilingual dataset for video-and-language research. In Proceedings of the IEEE International Conference on Computer Vision (pp. 4581-4591).

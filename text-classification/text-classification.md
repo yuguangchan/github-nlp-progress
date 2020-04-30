@@ -36,7 +36,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 |下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | SogouCS | 114万文档数据 | N/A | 王灿辉 | 搜狗实验室 | [论文](http://wwwconference.org/www2008/papers/pdf/p457-wang.pdf) |[链接](http://www.sogou.com/labs/resource/cs.php)| N/A |
+    | SogouCS | 114万文档数据 | N/A | 王灿辉 | 搜狗实验室 | N/A | N/A |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Canhui Wang, Min Zhang, Shaoping ma, Liyun Ru, Automatic Online News Issue Construction in Web Environment. The 17th International World Wide Web Conference (WWW08), Beijing, April, 2008.

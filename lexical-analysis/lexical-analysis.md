@@ -95,13 +95,7 @@
 
     | 名称      | 规模 | 创建日期 | 作者 | 论文 | 下载 | 评测 |
     | --------- | ---- | --- | ---- | ---- | ---- | ---- |
-    | Resume NER | 1027份简历  |  2018年 | Yue Zhang | [链接](https://arxiv.org/abs/1805.02023) | [链接](https://github.com/jiesutd/LatticeLSTM)  | N/A
-[^abandon]:
-    ### BOSONNER
-    由BOSON公司标注的实体识别数据集，包含人名、地名、机构名、时间、公司名和产品名6个实体类别
-    | 名称      | 规模 | 创建日期 | 单位 | 论文 | 下载 | 评测 |
-    | --------- | ---- | --- | ---- | ---- | ---- | ---- |
-    | BOSONNER | 2000个段落  |  2014年 | Boson |   N/A   |  [链接](https://bosonnlp.com/dev/resource) | N/A
+    | Resume NER | 1027份简历  |  2018年 | Yue Zhang | [链接](https://arxiv.org/abs/1805.02023) | [链接](https://github.com/jiesutd/LatticeLSTM)  | N/A|
 
 - **基于该数据集发表的论文**：
     - Zhang, Yue, and Jie Yang. "Chinese NER Using Lattice LSTM." Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018.

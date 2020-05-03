@@ -50,7 +50,7 @@
 
 ## 命名实体识别
 
-### 微软实体数据集
+### 1. 微软实体数据集
 - **数据集简介：**
 
     MSRANER是由微软亚洲研究院标注的新闻领域的实体识别数据集，也是SIGNAN backoff 2006的实体识别任务的数据集之一。该数据集包含5 万多条中文实体识别标注数据，实体类别分为人物、地点、机构三类。
@@ -68,7 +68,7 @@
     - Yan, Hang , et al. "TENER: Adapting Transformer Encoder for Named Entity Recognition." (2019).
 
 
-### 微博实体数据集
+### 2. 微博实体数据集
 - **数据集简介：**
 
     WeiboNER是根据新浪微博2013年11月至2014年12月间历史数据筛选过滤生成，包含1890条微博消息，基于[LDC2014的DEFT ERE的标注标准](https://tac.nist.gov/2016/KBP/guidelines/DEFT_ERE_Entities_IndividualGroup_Guidelines_V2.6.pdf)
@@ -86,7 +86,7 @@
     - Cao, Pengfei , et al. "Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing 2018.
     - Yan, Hang , et al. "TENER: Adapting Transformer Encoder for  Named Entity Recognition." (2019).
 
-### 简历实体数据集
+### 3. 简历实体数据集
 - **数据集简介：**
 
     Resume NER是根据新浪财经网关于上市公司的高级经理人的简历摘要数据，进行筛选过滤和人工标注生成的。该数据集包含1027份简历摘要，实体标注分为人名、国籍、籍贯、种族、专业、学位、机构、职称等8个类别。
@@ -107,7 +107,7 @@
     - Zhang, Yue, and Jie Yang. "Chinese NER Using Lattice LSTM." Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018.
     - Yan, Hang , et al. "TENER: Adapting Transformer Encoder for  Named Entity Recognition." (2019).
 
-### 细粒度实体数据集
+### 4. 细粒度实体数据集
 - **数据集简介：**
 
     CLUENER2020是根据清华大学开源的文本分类数据集THUCNEWS，进行筛选过滤、实体标注生成的。该数据集包含组织、人名、地址、公司、政府、书籍、游戏、电影、职位、景点等10个实体类别，且实体类别分布较为均衡。

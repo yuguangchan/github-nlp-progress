@@ -3,6 +3,7 @@
 ## 中文NLP开源数据集
 
 ### 词法分析
+- [词法分词](lexical-analysis/lexical-analysis.md)
 ### 句法分析
 - [依存句法](dependency-parsing/dependency-parsing.md)
 ### 语义解析

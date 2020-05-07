@@ -27,10 +27,10 @@
     - Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng, and Jun Zhao. 2015. Event extraction via dynamic multi-pooling convolutional neural networks. In ACLIJCNLP.
 
 
-### 3. TAC KBP Argument Tasks(2016-2017)
+### 3. TAC KBP Event Track -- Argument Task(2016-2017)
 - <strong>数据集简介： </strong>
 
-    2009年起，ACE并入TAC (Text Analysis Conference)会议，并于2014-2017年连续4年进行事件抽取任务评测, 其目标是抽取事件的结构化信息，使之能够被较好地合入到知识库中进行使用。其中，2014-2015年的数据集仅包含英语，2016-2017年则包含英语、中文、西班牙语3种语言。
+    TAC KBP Event Track是TAC会议知识库方向(Knowledge Base Population, KBP)的一个关注事件抽取的子方向，其目标是抽取事件的结构化信息，使之能够成为知识库构建的一种合适输入。其中的事件论元抽取任务(Argument Task)的目标则是抽取事件中的论元及其在事件中扮演的角色。 该任务总共举办了4次，其中，2014-2015年的数据集仅包含英语，2016-2017年则包含英语、中文、西班牙语3种语言。
 
 -  <strong> 数据集详情：</strong>
 
